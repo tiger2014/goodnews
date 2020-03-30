@@ -54,7 +54,7 @@ def get_content(orgText, link):
 	if post_image is None:
 		post = ''
 	else:
-		img = post_image.find('img')
+		img = post_image.find_all('img')[0]
 		caption = post_image.find('div', attrs = {'class': 'caption'})
 		if img is None or caption is None:
 			post = ''
