@@ -30,7 +30,8 @@ def get_content(url):
 	else:
 		post_title = '<div>' + post_title.prettify().encode('utf-8') \
 			.replace('</figure>','</figure><br/>') + '</div><hr/>' + \
-			'\n\n#### [ 💌  武汉肺炎来势凶凶， 如何自救：“不信一万就信万一”](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
+			macros.links
+			#'\n\n#### [ 💌  武汉肺炎来势凶凶， 如何自救：“不信一万就信万一”](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
 
 	post_content = parser.find('div', attrs = {'class': 'post_content'})
 	if post_content is None:
