@@ -50,6 +50,8 @@ def get_content(orgText, link):
 	response = requests.get(link)
 	text = response.text.encode('utf-8')
 	parser = BeautifulSoup(text, 'html.parser')
+	for script in parser.find_all('noscript'):
+		script.decompose()
 	post_image = parser.find('div', attrs = {'class': 'featured_image'})
 	if post_image is None:
 		post = ''
