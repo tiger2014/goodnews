@@ -87,8 +87,7 @@ def keep_updating(title):
 
 # sync single page
 if len(sys.argv) > 4:
-	#print sys.argv[5]
-
+	print sys.argv[5]
 	body = get_article_body(sys.argv[5])
 	content = get_content(body, sys.argv[5])
 	macros.write_page(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], content)	
