@@ -15,7 +15,7 @@ index_page = '' + macros.head
 
 
 def get_article_body(link):
-	response = requests.get(link)
+	response = requests.get(link, verify=False)
 	text = response.text.encode('utf-8').replace('</p>\n</p>','</p>')
 	parser = BeautifulSoup(text, 'html.parser')
 	body = parser.find('div', id='artbody')
@@ -47,7 +47,7 @@ def get_content(orgText, link):
 	content = '<div>' + parser.prettify().encode('utf-8')  + '</div>'
 
 	# get post image
-	response = requests.get(link)
+	response = requests.get(link, verify=False)
 	text = response.text.encode('utf-8')
 	parser = BeautifulSoup(text, 'html.parser')
 	post_image = parser.find('div', attrs = {'class': 'featured_image'})
