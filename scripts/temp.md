@@ -46,13 +46,13 @@
 
 ## 推荐文章专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [实锤：东京大学教授爆料 去年十月就知道大陆病毒泄漏](/pages/recommended/928220.md?t=04011330) &nbsp;|&nbsp;    [传马云、柳传志联名企业家上书习近平 吁释放任志强](/pages/recommended/927682.md?t=04011330)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [任志强绝食消息流出 网传其失联日记](/pages/recommended/a102809467.md?t=04011330) &nbsp;|&nbsp;    [传任志强因绝食致心脏衰竭 被紧急送院抢救](/pages/recommended/a102811415.md?t=04011330)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [传任志强审讯情况曝光 被控捐款给华尔街智库](/pages/recommended/927681.md?t=04011330) &nbsp;|&nbsp;    [用羟氯喹治愈699例 纽约一医生成功率100%](/pages/recommended/a102811476.md?t=04011330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [这需要怎样的勇气：昔日小粉红 实名公开促中共下台](/pages/recommended/a102812218.md?t=04011330) &nbsp;|&nbsp;    [安徽官员最新调研：大饥荒、大萧条、大崩溃将临](/pages/recommended/a102811801.md?t=04011330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [一个更大的感染群体成中共高度机密](/pages/recommended/a102812244.md?t=04011330) &nbsp;|&nbsp;    [知情人：八宝山火葬场支援武汉 领骨灰排半年以后](/pages/recommended/a102811589.md?t=04011330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [【宋紫凤专栏】病毒七大特征 全息成象惊人对应(图)中共病毒](/pages/recommended/928054.md?t=04011330) &nbsp;|&nbsp;    [【文史】大难前如何避祸 埃及十灾给启示](/pages/recommended/n11981662.md?t=04011330) 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [印度都给穷人发钱了 武汉人还在哭诉全家即将被饿死，中国人还自掏隔离费](/pages/recommended/928002.md?t=04011330) &nbsp;|&nbsp;    [从这个数据看全球中共病毒疫情 结果很意外](/pages/recommended/n11981153.md?t=04011330)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [实锤：东京大学教授爆料 去年十月就知道大陆病毒泄漏](/pages/recommended/928220.md?t=04011401) &nbsp;|&nbsp;    [传马云、柳传志联名企业家上书习近平 吁释放任志强](/pages/recommended/927682.md?t=04011401)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [任志强绝食消息流出 网传其失联日记](/pages/recommended/a102809467.md?t=04011401) &nbsp;|&nbsp;    [传任志强因绝食致心脏衰竭 被紧急送院抢救](/pages/recommended/a102811415.md?t=04011401)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [传任志强审讯情况曝光 被控捐款给华尔街智库](/pages/recommended/927681.md?t=04011401) &nbsp;|&nbsp;    [用羟氯喹治愈699例 纽约一医生成功率100%](/pages/recommended/a102811476.md?t=04011401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [这需要怎样的勇气：昔日小粉红 实名公开促中共下台](/pages/recommended/a102812218.md?t=04011401) &nbsp;|&nbsp;    [安徽官员最新调研：大饥荒、大萧条、大崩溃将临](/pages/recommended/a102811801.md?t=04011401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [一个更大的感染群体成中共高度机密](/pages/recommended/a102812244.md?t=04011401) &nbsp;|&nbsp;    [知情人：八宝山火葬场支援武汉 领骨灰排半年以后](/pages/recommended/a102811589.md?t=04011401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [【宋紫凤专栏】病毒七大特征 全息成象惊人对应(图)中共病毒](/pages/recommended/928054.md?t=04011401) &nbsp;|&nbsp;    [【文史】大难前如何避祸 埃及十灾给启示](/pages/recommended/n11981662.md?t=04011401) 
+### &nbsp;&nbsp;&nbsp;&nbsp;    [印度都给穷人发钱了 武汉人还在哭诉全家即将被饿死，中国人还自掏隔离费](/pages/recommended/928002.md?t=04011401) &nbsp;|&nbsp;    [从这个数据看全球中共病毒疫情 结果很意外](/pages/recommended/n11981153.md?t=04011401)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
 
 ##  视频专区
 ### &nbsp;&nbsp;&nbsp;&nbsp; [你想看的视频，不想看的视频都在这儿😉](https://github.com/begood0513/goodnews/blob/master/quit/videos.md)
@@ -71,6 +71,8 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=02032102) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=02032102) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=02032102)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=02032102) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=02032102) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=02032102) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=02032102) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=02032102) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=02032102)
 
+### &nbsp;&nbsp;&nbsp;&nbsp; 微信号：
+<div align=center><img src="/quit/weixinKeFu.jpeg" height="140"></div>
 
 #### 在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器）
 
