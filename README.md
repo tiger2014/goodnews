@@ -35,7 +35,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我不再是中共的人</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>瘟神您别进错门</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>前面左拐是党部</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>快到那儿去显能</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>请到那儿去显能</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一编者随笔
 
 
@@ -46,30 +46,30 @@
 
 ## 推荐文章专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [实锤：东京大学教授爆料 去年十月就知道大陆病毒泄漏](/pages/recommended/928220.md?t=04051330) &nbsp;|&nbsp;    [传马云、柳传志联名企业家上书习近平 吁释放任志强](/pages/recommended/927682.md?t=04051330)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [任志强绝食消息流出 网传其失联日记](/pages/recommended/a102809467.md?t=04051330) &nbsp;|&nbsp;    [传任志强因绝食致心脏衰竭 被紧急送院抢救](/pages/recommended/a102811415.md?t=04051330)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [传任志强审讯情况曝光 被控捐款给华尔街智库](/pages/recommended/927681.md?t=04051330) &nbsp;|&nbsp;    [【疫情透视】养虎为患 美国疫情为何严重](/pages/recommended/n11998432.md?t=04051330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [国难当前，山东政法委打击重点如此荒诞！](/pages/recommended/n11964183.md?t=04051330) &nbsp;|&nbsp;    [潘石屹儿子连发敏感信息暗批体制 网络关切](/pages/recommended/n11999063.md?t=04051330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [中共军方专家内部讲话：武汉第一代病人死了1/3](/pages/recommended/n11999329.md?t=04051330) &nbsp;|&nbsp;    [用羟氯喹治愈699例 纽约一医生成功率100%](/pages/recommended/a102811476.md?t=04051330)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [这需要怎样的勇气：昔日小粉红 实名公开促中共下台](/pages/recommended/a102812218.md?t=04051330) &nbsp;|&nbsp;    [安徽官员最新调研：大饥荒、大萧条、大崩溃将临](/pages/recommended/a102811801.md?t=04051330) 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [一个更大的感染群体成中共高度机密](/pages/recommended/a102812244.md?t=04051330) &nbsp;|&nbsp;    [知情人：八宝山火葬场支援武汉 领骨灰排半年以后](/pages/recommended/a102811589.md?t=04051330)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [武汉人解读中共肺炎](/pages/recommended/403301.md?t=04051401) &nbsp;|&nbsp;    [三大事件冲击中南海 太子党真想政变？](/pages/recommended/a102816175.md?t=04051401)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [中南海深夜枪响 大批军人进京](/pages/recommended/a102815615.md?t=04051401) &nbsp;|&nbsp;    [最大风暴初现端倪之：越南禁止粮食出口](/pages/recommended/928628.md?t=04051401)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [被迫签疫情保密协议 武汉医护诉亲身遭遇](/pages/recommended/n12003749.md?t=04051401) &nbsp;|&nbsp;    [天主教界首位 缅甸主教痛批“中共是全人类的威胁”](/pages/recommended/928590.md?t=04051401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [再次突变 武汉解除封城无望？](/pages/recommended/928499.md?t=04051401) &nbsp;|&nbsp;    [纽时：疫情爆发后 中共5周扫光全球20亿个口罩](/pages/recommended/a102815828.md?t=04051401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [实锤：东京大学教授爆料 去年十月就知道大陆病毒泄漏](/pages/recommended/928220.md?t=04051401) &nbsp;|&nbsp;    [传马云、柳传志联名企业家上书习近平 吁释放任志强](/pages/recommended/927682.md?t=04051401)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [任志强绝食消息流出 网传其失联日记](/pages/recommended/a102809467.md?t=04051401) &nbsp;|&nbsp;    [传任志强因绝食致心脏衰竭 被紧急送院抢救](/pages/recommended/a102811415.md?t=04051401) 
+### &nbsp;&nbsp;&nbsp;&nbsp;    [传任志强审讯情况曝光 被控捐款给华尔街智库](/pages/recommended/927681.md?t=04051401) &nbsp;|&nbsp;    [【疫情透视】养虎为患 美国疫情为何严重](/pages/recommended/n11998432.md?t=04051401)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
 
 ##  视频专区
 ### &nbsp;&nbsp;&nbsp;&nbsp; [你想看的视频，不想看的视频都在这儿😉](https://github.com/begood0513/goodnews/blob/master/quit/videos.md)
 
 ## 中共画皮专区
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [法轮功真相](../../../basic/blob/master/README.md?t=04051330) &nbsp;|&nbsp; [九评共产党](../../../9ping.md/blob/master/README.md?t=04051330) &nbsp;|&nbsp; [解体党文化](../../../jtdwh.md/blob/master/README.md?t=04051330)  &nbsp;|&nbsp; [共产主义的终极目的](../../../gczydzjmd.md/blob/master/README.md?t=04051330) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../mgztzwmdsj.md/blob/master/README.md?t=04051330) 
+ ### &nbsp;&nbsp;&nbsp;&nbsp; [法轮功真相](../../../basic/blob/master/README.md?t=04051401) &nbsp;|&nbsp; [九评共产党](../../../9ping.md/blob/master/README.md?t=04051401) &nbsp;|&nbsp; [解体党文化](../../../jtdwh.md/blob/master/README.md?t=04051401)  &nbsp;|&nbsp; [共产主义的终极目的](../../../gczydzjmd.md/blob/master/README.md?t=04051401) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../mgztzwmdsj.md/blob/master/README.md?t=04051401) 
 
 ## 同步新闻专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 大纪元新闻网 &nbsp;-&nbsp; [头条集锦](indexes/E头条集锦.md?t=04051330) &nbsp;|&nbsp; [港澳新闻](indexes/E港澳新闻.md?t=04051330)  &nbsp;|&nbsp; [大陆新闻](indexes/E大陆新闻.md?t=04051330) &nbsp;|&nbsp; [美国新闻](indexes/E美国新闻.md?t=04051330) &nbsp;|&nbsp; [国际新闻](indexes/E国际新闻.md?t=04051330) &nbsp;|&nbsp; [专栏文集](indexes/E专栏文集.md?t=04051330) &nbsp;|&nbsp; [纪元社论](indexes/E纪元社论.md?t=04051330) &nbsp;|&nbsp; [纪元特稿](indexes/E纪元特稿.md?t=04051330) 
+### &nbsp;&nbsp;&nbsp;&nbsp; 大纪元新闻网 &nbsp;-&nbsp; [头条集锦](indexes/E头条集锦.md?t=04051401) &nbsp;|&nbsp; [港澳新闻](indexes/E港澳新闻.md?t=04051401)  &nbsp;|&nbsp; [大陆新闻](indexes/E大陆新闻.md?t=04051401) &nbsp;|&nbsp; [美国新闻](indexes/E美国新闻.md?t=04051401) &nbsp;|&nbsp; [国际新闻](indexes/E国际新闻.md?t=04051401) &nbsp;|&nbsp; [专栏文集](indexes/E专栏文集.md?t=04051401) &nbsp;|&nbsp; [纪元社论](indexes/E纪元社论.md?t=04051401) &nbsp;|&nbsp; [纪元特稿](indexes/E纪元特稿.md?t=04051401) 
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/N中国时局.md?t=04051330) &nbsp;|&nbsp; [共产党百年真相](indexes/N共产党百年真相.md?t=04051330) &nbsp;|&nbsp; [中共杀人历史](indexes/N中共杀人历史.md?t=04051330)  &nbsp;|&nbsp; [法轮功专题](indexes/N法轮功专题.md?t=04051330) &nbsp;|&nbsp; [文史漫步](indexes/N文史漫步.md?t=04051330) &nbsp;|&nbsp; [大陆新闻](indexes/N大陆新闻.md?t=04051330) &nbsp;|&nbsp; [美国新闻](indexes/N美国新闻.md?t=04051330)
+### &nbsp;&nbsp;&nbsp;&nbsp; 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/N中国时局.md?t=04051401) &nbsp;|&nbsp; [共产党百年真相](indexes/N共产党百年真相.md?t=04051401) &nbsp;|&nbsp; [中共杀人历史](indexes/N中共杀人历史.md?t=04051401)  &nbsp;|&nbsp; [法轮功专题](indexes/N法轮功专题.md?t=04051401) &nbsp;|&nbsp; [文史漫步](indexes/N文史漫步.md?t=04051401) &nbsp;|&nbsp; [大陆新闻](indexes/N大陆新闻.md?t=04051401) &nbsp;|&nbsp; [美国新闻](indexes/N美国新闻.md?t=04051401)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/H热点追踪.md?t=04051330) &nbsp;|&nbsp; [名家谈时事](indexes/H名家谈时事.md?t=04051330) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=04051330)  &nbsp;|&nbsp; [红朝解密](indexes/H红朝解密.md?t=04051330) &nbsp;|&nbsp; [文化寻根](indexes/H文化寻根.md?t=04051330) &nbsp;|&nbsp; [大陆新闻](indexes/H大陆新闻.md?t=04051330) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=04051330)
+### &nbsp;&nbsp;&nbsp;&nbsp; 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/H热点追踪.md?t=04051401) &nbsp;|&nbsp; [名家谈时事](indexes/H名家谈时事.md?t=04051401) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=04051401)  &nbsp;|&nbsp; [红朝解密](indexes/H红朝解密.md?t=04051401) &nbsp;|&nbsp; [文化寻根](indexes/H文化寻根.md?t=04051401) &nbsp;|&nbsp; [大陆新闻](indexes/H大陆新闻.md?t=04051401) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=04051401)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=04051330) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=04051330) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=04051330)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=04051330) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=04051330) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=04051330) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=04051330) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=04051330) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=04051330)
+### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=04051401) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=04051401) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=04051401)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=04051401) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=04051401) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=04051401) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=04051401) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=04051401) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=04051401)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 微信号：
 <div align=center><img src="/quit/weixinKeFu.jpeg" height="140"></div>
