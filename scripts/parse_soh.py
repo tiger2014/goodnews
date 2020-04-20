@@ -9,75 +9,79 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
 channel = sys.argv[1]
-channel_url = sys.argv[2]
+xml_file = channel + '.xml'
 
 index_page = '' + macros.head
 links = macros.tail
 
+tree = ET.parse(xml_file)
+root = tree.getroot()
 
-def get_content(url):
-	response = requests.get(url)
-	text = response.text.encode('ISO-8859-1')
-	parser = BeautifulSoup(text, 'html.parser').find('div', id= 'article-content')
-	for script in parser.find_all('script'):
-		script.decompose()
-	for iframe in parser.find_all('iframe'):
-		iframe.decompose()
+def get_content(link):
+	response = requests.get(link)
+	text = response.text.encode('utf-8').replace('Content__Wrapper-', 'Content__Wrapper ').replace('class="fimg"', '/')
+	parser = BeautifulSoup(text, 'html.parser').find('div', attrs = {'class': 'post-btm'})
+	body = parser.find('div', attrs = {'class': 'Content__Wrapper'})
 	for img in parser.find_all('img'):
 		del img['width']
 		del img['height']
-		del img['sizes']
-	post_title = parser.find('div', attrs = {'class': 'zhidingtu'})
-	if post_title is None:
-		post_title = ''
+	for iframe in parser.find_all('iframe'):
+		iframe.decompose()
+	for script in parser.find_all('script'):
+		script.decompose()
+	for a in parser.find_all('a'):
+		del a['title']
+		del a['class']
+	content = '<div>' + body.prettify().encode('utf-8')  + '</div>'
+
+	post_image = parser.find('figure') #, attrs = {'class': 'feature-image'})
+	#print post_image
+	if post_image is None:
+		post = ''
 	else:
-		post_title = post_title.prettify().encode('utf-8') 
-	post_content = parser.find('div', attrs = {'class': 'content'})
-	if post_content is None:
-		post_cotent =  '-'
-	else:
-		post_content = post_content.prettify().encode('utf-8')
-	return (post_title + '<hr/>\n' + post_content ) \
-		.replace('//img.soundofhope.org', 'http://img.soundofhope.org') \
-		.replace('<h1>', '<h3>').replace('<h1 ', '<h3 ').replace('</h1>', '</h3>') \
-		.replace('<h2>', '<h4>').replace('<h2 ', '<h4 ').replace('</h2>', '</h4>') \
-		.replace('</figure>','</figure><br/>') \
-		.replace('<figcaption','<br/><figcaption') \
-		.replace('</figcaption>','</figcaption><br/>') \
-		.replace('<a href', '<span href').replace('</a>', '</span>')
+		#img = post_image.find('img')
+		img = post_image.find('img')
+		caption = post_image.find('figcaption', attrs = {'class': 'caption'})
+		if img is None or caption is None:
+			post = ''
+		else:
+			del img['width']
+			del img['height']
+			post = '<div>' + img.prettify().encode('utf-8') + \
+				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.proxy
+
+	#.replace('<a href', '<span href').replace('</a>', '</span>') \
+	return (post + content)	\
+		.replace('//img', 'https://img').replace('<figcaption', '<br/><figcaption') \
+		.replace('<a href', '<ok href').replace('</a>', '</ok>')
 
 
 def get_name(link):
 	fname = link.split('/')[-1]
-	aid  = fname.split('.')[0]
-	return aid
+	return fname.split('.')[0]
 
 
-index_text = requests.get(channel_url).text.encode('utf-8')
-index_html = BeautifulSoup(index_text, 'html.parser')
-articles = index_html.find('div', attrs = {'class':'list-ref-2'}).find_all('a')
-for article in articles:
-	a_url = 'http:' + article.get('href').encode('utf-8')
-	#print a_url
-	a_title = article.find('div', attrs = {'class':'title'})
-	for span in a_title.find_all('span'):
-		span.decompose()
-	a_title = a_title.text.encode('utf-8').strip()
-	#print a_title
-	name = get_name(a_url) + '.md'
+def keep_updating(title):
+	return title.find('更新') > -1
+
+
+for child in root[0]:
+	if child.tag != 'item':
+		continue
+	link = child.find('link').text
+	title = child.find('title').text.encode('utf-8')
+	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
-	#content = get_content(a_url)
-
-	if not os.path.exists(file_path):
+	
+	if not os.path.exists(file_path) or keep_updating(title):
+	#if True:
 		print file_path
-		content = get_content(a_url)
-		macros.write_page(channel, name, file_path, a_title, a_url, content)
-	index_page += '#### [' + a_title + '](' + file_path + ') \n\n'
+		content = get_content(link)
+		macros.write_page(channel, name, file_path, title, link, content)
+	index_page += '#### [' + title + '](' + file_path + ') \n'
 
 
 index_file = open('../indexes/' + channel + '.md', 'w')
 index_file.write(index_page)
 index_file.close()
-
-
 
