@@ -1,44 +1,5 @@
 # <font color="#dd0000">最新新闻及疫情时刻更新，欢迎广传，请一起推广、做种。5大专区，传播真相，为中国尽一份力，因为只有真相能救中国! 本页面短网址 https://git.io/gnews</font>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中共病毒的告白
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我叫中共病毒</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>撒旦命我来收割它的信徒</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我从武汉来到东土</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>党团队员都是我的猎物</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>别徒劳反抗</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>你们早已发誓：</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>在最后的时刻向魔王献出一切</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我来要求履行“合同”</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>快献上你们的生命和灵魂</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我还要赶去西方</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>那里也有魔王的信徒</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一编者随笔<br/>
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如何自救
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>朋友您别埋怨</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>天灾人祸老天长眼</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>百年红祸，一亿冤魂</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>怨气满神州</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>受害者一直向众神呐喊：</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>严惩中共及帮凶</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>您是它的一员或认同者</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>当然为其背罪责</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>如何自救：</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>“三退”保平安</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>“亲共”下地狱</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>看您选哪边</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一编者随笔<br/>
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我已“三退”
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我不再是中共的人</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>瘟神您别进错门</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>前面左拐是党部</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>请到那儿去显能</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一编者随笔
-
-
 ## 自救专区
 
  ### &nbsp;&nbsp;&nbsp;&nbsp; [太紧急了❗️ 武汉疫情迅速发展，请尽快点开这里，赶快自救，保的平安🍎 无需重复📩](/quit/letter.md)
@@ -46,30 +7,30 @@
 
 ## 推荐文章专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [世界追索中共 中国百姓如何才能不买单](/pages/recommended/n12038547.md?t=04201302) &nbsp;|&nbsp;    [虐杀193人 哈市610官员全曝光](/pages/recommended/n12031411.md?t=04201302)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [欧洲游客染瘟疫 痛斥中共后奇迹般康复](/pages/recommended/n12030636.md?t=04201302) &nbsp;|&nbsp;    [历史在今天重演 死亡与复活并存(图)中共病毒](/pages/recommended/929812.md?t=04201302)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [从武汉肺炎“抢钱”说起](/pages/recommended/403667.md?t=04201302) &nbsp;|&nbsp;    [【内幕】刀笔齐握 中共政法网军运作解密](/pages/recommended/n12010892.md?t=04201302)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [【独家】黑龙江文件揭绥芬河疫情爆发真相](/pages/recommended/n12021047.md?t=04201302) &nbsp;|&nbsp;    [退伍军人揭中共镇压疆藏港人的恐怖经历](/pages/recommended/a102820365.md?t=04201302)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [大疫面前 正常国家的政府们怎么做？](/pages/recommended/403583.md?t=04201302) &nbsp;|&nbsp;    [任志强被查：红二代分三类 一类准备将江山交人民](/pages/recommended/929179.md?t=04201302)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [河南惨剧：一家陷入绝境 挂牌“转让”女儿](/pages/recommended/a102819660.md?t=04201302) &nbsp;|&nbsp;    [全球群起追责 中共盟友也倒戈](/pages/recommended/a102819537.md?t=04201302) 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [外债2万亿美元 中共靠举债填补外汇收入](/pages/recommended/n12016703.md?t=04201302) &nbsp;|&nbsp;    [任志强被立案审查 知情人曝蔡奇拍板向中南海交代](/pages/recommended/a102818252.md?t=04201302)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [疫情“倒爷”自述：你知道外国买家怎么看我们吗](/pages/recommended/daoye.md?t=04201330) &nbsp;|&nbsp;    [这些「爱国贼」，害惨了我的国](/pages/recommended/Aiguozhei.md?t=04201330)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [中共病毒的告白](/pages/recommended/whbddgb.md?t=04201330) &nbsp;|&nbsp;    [世界追索中共 中国百姓如何才能不买单](/pages/recommended/n12038547.md?t=04201330)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [【瘟疫与中共】欧洲人苏醒了 中欧关系风向大变](/pages/recommended/a102826583.md?t=04201330) &nbsp;|&nbsp;    [中国逾2亿人失业 威胁国民基本生计](/pages/recommended/n12044309.md?t=04201330)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [大瘟疫如何追究中共罪责？ 五专家出谋划策](/pages/recommended/n12044385.md?t=04201330) &nbsp;|&nbsp;    [夏小强：看苍天饶过谁 前610副主任落马](/pages/recommended/n12044204.md?t=04201330)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [1](/pages/recommended/n12044311.md?t=04201330) &nbsp;|&nbsp;    [孙力军突然落马 传绝密文件藏海外 妻存款数百亿](/pages/recommended/a102827003.md?t=04201330)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [川普“赶他走”话音刚落 党媒在白宫立马消失](/pages/recommended/a102826973.md?t=04201330) &nbsp;|&nbsp;    [中共深度渗透 联合国189人染疫3人死亡](/pages/recommended/a102826903.md?t=04201330) 
+### &nbsp;&nbsp;&nbsp;&nbsp;    [虐杀193人 哈市610官员全曝光](/pages/recommended/n12031411.md?t=04201330) &nbsp;|&nbsp;    [欧洲游客染瘟疫 痛斥中共后奇迹般康复](/pages/recommended/n12030636.md?t=04201330)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
 
 ##  视频专区
 ### &nbsp;&nbsp;&nbsp;&nbsp; [你想看的视频，不想看的视频都在这儿😉](https://github.com/begood0513/goodnews/blob/master/quit/videos.md)
 
 ## 中共画皮专区
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [法轮功真相](../../../basic/blob/master/README.md?t=04201302) &nbsp;|&nbsp; [九评共产党](../../../9ping.md/blob/master/README.md?t=04201302) &nbsp;|&nbsp; [解体党文化](../../../jtdwh.md/blob/master/README.md?t=04201302)  &nbsp;|&nbsp; [共产主义的终极目的](../../../gczydzjmd.md/blob/master/README.md?t=04201302) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../mgztzwmdsj.md/blob/master/README.md?t=04201302) 
+ ### &nbsp;&nbsp;&nbsp;&nbsp; [法轮功真相](../../../basic/blob/master/README.md?t=04201330) &nbsp;|&nbsp; [九评共产党](../../../9ping.md/blob/master/README.md?t=04201330) &nbsp;|&nbsp; [解体党文化](../../../jtdwh.md/blob/master/README.md?t=04201330)  &nbsp;|&nbsp; [共产主义的终极目的](../../../gczydzjmd.md/blob/master/README.md?t=04201330) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../mgztzwmdsj.md/blob/master/README.md?t=04201330) 
 
 ## 同步新闻专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 大纪元新闻网 &nbsp;-&nbsp; [头条集锦](indexes/E头条集锦.md?t=04201302) &nbsp;|&nbsp; [港澳新闻](indexes/E港澳新闻.md?t=04201302)  &nbsp;|&nbsp; [大陆新闻](indexes/E大陆新闻.md?t=04201302) &nbsp;|&nbsp; [美国新闻](indexes/E美国新闻.md?t=04201302) &nbsp;|&nbsp; [国际新闻](indexes/E国际新闻.md?t=04201302) &nbsp;|&nbsp; [专栏文集](indexes/E专栏文集.md?t=04201302) &nbsp;|&nbsp; [纪元社论](indexes/E纪元社论.md?t=04201302) &nbsp;|&nbsp; [纪元特稿](indexes/E纪元特稿.md?t=04201302) 
+### &nbsp;&nbsp;&nbsp;&nbsp; 大纪元新闻网 &nbsp;-&nbsp; [头条集锦](indexes/E头条集锦.md?t=04201330) &nbsp;|&nbsp; [港澳新闻](indexes/E港澳新闻.md?t=04201330)  &nbsp;|&nbsp; [大陆新闻](indexes/E大陆新闻.md?t=04201330) &nbsp;|&nbsp; [美国新闻](indexes/E美国新闻.md?t=04201330) &nbsp;|&nbsp; [国际新闻](indexes/E国际新闻.md?t=04201330) &nbsp;|&nbsp; [专栏文集](indexes/E专栏文集.md?t=04201330) &nbsp;|&nbsp; [纪元社论](indexes/E纪元社论.md?t=04201330) &nbsp;|&nbsp; [纪元特稿](indexes/E纪元特稿.md?t=04201330) 
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/N中国时局.md?t=04201302) &nbsp;|&nbsp; [共产党百年真相](indexes/N共产党百年真相.md?t=04201302) &nbsp;|&nbsp; [中共杀人历史](indexes/N中共杀人历史.md?t=04201302)  &nbsp;|&nbsp; [法轮功专题](indexes/N法轮功专题.md?t=04201302) &nbsp;|&nbsp; [文史漫步](indexes/N文史漫步.md?t=04201302) &nbsp;|&nbsp; [大陆新闻](indexes/N大陆新闻.md?t=04201302) &nbsp;|&nbsp; [美国新闻](indexes/N美国新闻.md?t=04201302)
+### &nbsp;&nbsp;&nbsp;&nbsp; 新唐人电视台 &nbsp;-&nbsp; [中国时局](indexes/N中国时局.md?t=04201330) &nbsp;|&nbsp; [共产党百年真相](indexes/N共产党百年真相.md?t=04201330) &nbsp;|&nbsp; [中共杀人历史](indexes/N中共杀人历史.md?t=04201330)  &nbsp;|&nbsp; [法轮功专题](indexes/N法轮功专题.md?t=04201330) &nbsp;|&nbsp; [文史漫步](indexes/N文史漫步.md?t=04201330) &nbsp;|&nbsp; [大陆新闻](indexes/N大陆新闻.md?t=04201330) &nbsp;|&nbsp; [美国新闻](indexes/N美国新闻.md?t=04201330)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/H热点追踪.md?t=04201302) &nbsp;|&nbsp; [名家谈时事](indexes/H名家谈时事.md?t=04201302) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=04201302)  &nbsp;|&nbsp; [红朝解密](indexes/H红朝解密.md?t=04201302) &nbsp;|&nbsp; [文化寻根](indexes/H文化寻根.md?t=04201302) &nbsp;|&nbsp; [大陆新闻](indexes/H大陆新闻.md?t=04201302) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=04201302)
+### &nbsp;&nbsp;&nbsp;&nbsp; 希望之声SOH &nbsp;-&nbsp; [热点追踪](indexes/H热点追踪.md?t=04201330) &nbsp;|&nbsp; [名家谈时事](indexes/H名家谈时事.md?t=04201330) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=04201330)  &nbsp;|&nbsp; [红朝解密](indexes/H红朝解密.md?t=04201330) &nbsp;|&nbsp; [文化寻根](indexes/H文化寻根.md?t=04201330) &nbsp;|&nbsp; [大陆新闻](indexes/H大陆新闻.md?t=04201330) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=04201330)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=04201302) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=04201302) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=04201302)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=04201302) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=04201302) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=04201302) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=04201302) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=04201302) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=04201302)
+### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=04201330) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=04201330) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=04201330)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=04201330) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=04201330) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=04201330) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=04201330) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=04201330) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=04201330)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 微信号：
 <div align=center><img src="/quit/weixinKeFu.jpeg" height="140"></div>
