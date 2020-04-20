@@ -48,7 +48,7 @@ def get_content(link):
 			del img['width']
 			del img['height']
 			post = '<div>' + img.prettify().encode('utf-8') + \
-				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.proxy
+				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.links
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \
 	return (post + content)	\
