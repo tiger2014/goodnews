@@ -28,6 +28,10 @@ def get_content(url):
 	if post_title is None:
 		post_title = ''
 	else:
+		try:
+			post_title.find('a').unwrap()
+		except:
+			pass
 		post_title = '<div>' + post_title.prettify().encode('utf-8') \
 			.replace('</figure>','</figure><br/>') + '</div><hr/>' + \
 			macros.links
@@ -78,8 +82,8 @@ for article in articles:
 	file_path = '../pages/' + channel + '/' + name 
 	#content = get_content(a_url)
 
-	if not os.path.exists(file_path):
-	#if True:
+	#if not os.path.exists(file_path):
+	if True:
 		print file_path
 		content = get_content(a_url)
 		macros.write_page(channel, name, file_path, a_title, a_url, content)
