@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://www.spiritrockshop.com/images/hello_pointing_finger.gif" height="70" width="125"/></div>
 <div align=center>请点击下面的“我要三退”</div>
-<div align=center><b><a href="http://45.63.99.118:10000/form/form.html"> * * * 我要三退 * * * </a></b></div><br/>
+<div align=center><b><a href="http://136.244.78.252:10000/form/form.html"> * * * 我要三退 * * * </a></b></div><br/>
        
 <div align="center"><img  src="03.jpg"/> &nbsp; <img  src="04.jpg"/> </div>    
 
@@ -32,7 +32,7 @@
 
 ---
 <div align=center>请点击下面的“我要三退”</div>
-<div align=center><b><a href="http://45.63.99.118:10000/form/form.html"> * * * 我要三退 * * * </a></b></div>
+<div align=center><b><a href="http://136.244.78.252:10000/form/form.html"> * * * 我要三退 * * * </a></b></div>
 
 ---
 <br/>
@@ -50,7 +50,7 @@
 
 ---
 <div align=center>请点击下面的“我要三退”</div>
-<div align=center><b><a href="http://45.63.99.118:10000/form/form.html"> * * * 我要三退 * * * </a></b></div>
+<div align=center><b><a href="http://136.244.78.252:10000/form/form.html"> * * * 我要三退 * * * </a></b></div>
 
 ---
 
