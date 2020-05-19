@@ -59,8 +59,8 @@ for child in root[0]:
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	
-	#if True:
-	if not os.path.exists(file_path):
+	if True:
+	#if not os.path.exists(file_path):
 		print file_path
 		content = get_content(title, link)
 		macros.write_page(channel, name, file_path, title, link, content)
