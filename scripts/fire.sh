@@ -29,6 +29,8 @@ for f in $(ls ../indexes/*); do
 	sed -i "/环球直击/d" $f
 	sed -i "/【中国禁闻/d" $f
 	sed -i "/石涛聚焦/d" $f
+	sed -i "/视频）/d" $f
+	sed -i "/视频)/d" $f
 done
 
 
