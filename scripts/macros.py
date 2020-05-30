@@ -9,6 +9,7 @@ head = '####  [法轮功真相](../../../../basic/blob/master/README.md) &nbsp;|
 menu = "#### [首页](../../README.md)  &nbsp;&nbsp;|&nbsp;&nbsp; _channellink_  &nbsp;&nbsp;|&nbsp;&nbsp; [热点推荐](../../indexes/热点推荐.md)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](../../../../../basic/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [翻墙教程](https://github.com/gfw-breaker/guides/blob/master/README.md)\n\n"
 
 links = "\n\n#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; | &nbsp;[退出中共组织 良心的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n #### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md)\n\n #### [ 🎬  《红墙的记忆》- 4.25中南海万人和平上访纪实 ](http://136.244.78.252:10000/videos/legend/425.html)\n\n #### [ 🎬   中華民國第15任總統就職典禮](http://136.244.78.252:10000/videos/news/tw520.html)&nbsp; | &nbsp;[重磅：川普5月29日對華政策演講全文](http://136.244.78.252:10000/videos/news/t0529.html)\n\n #### 网站代理：[大纪元新闻网](http://141.164.54.31:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://141.164.54.31:8000/gb/)\n\n"
+
 tail = ""
 
 def write_page(channel, f_name, f_path, title, link, content):
