@@ -2,7 +2,7 @@
 
 ## 自救专区
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [太紧急了❗️ 武汉疫情迅速发展，请尽快点开这里，赶快自救，保的平安🍎 无需重复📩](/quit/letter.md)
+ ### &nbsp;&nbsp;&nbsp;&nbsp; [今年两会开幕之时，北京一下黑如晚上8，9点钟，电闪雷鸣❗️ 天灭中共非虚言，赶快自救保平安🍎 快快快 📩](/quit/letter.md)
  ### &nbsp;&nbsp;&nbsp;&nbsp; [每日自救选播](https://github.com/gfw-breaker/tuidang/blob/master/README.md)
 
 ## 推荐文章专区
