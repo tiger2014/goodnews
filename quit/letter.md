@@ -1,4 +1,4 @@
-<div align=center><b>瘟疫针对中共及亲共者而来，别为中共作陪葬！赶快自救，“三退”保平安</b></div><br/>
+<div align=center><b>退出中共不是政治问题，而是道德问题：中共是魔教，别为中共作陪葬！天灭中共，“三退”保平安</b></div><br/>
 
 <div align=center><img src="https://www.spiritrockshop.com/images/hello_pointing_finger.gif" height="70" width="125"/></div>
 <div align=center>请点击下面的“我要三退”</div>
