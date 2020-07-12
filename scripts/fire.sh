@@ -35,7 +35,7 @@ done
 
 
 ## add qr code
-base_url="https://github.com/begood0513/goodnews/blob/master"
+base_url="https://github.com/sendtruth2020/goodnews2/blob/master"
 for d in $(ls ../pages/); do
 	c_name=$(grep "$d," ../indexes/names.csv | cut -d',' -f2)
 	cs_name=$(echo $c_name | cut -c2-)

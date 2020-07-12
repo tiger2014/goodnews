@@ -1,16 +1,16 @@
 #!/usr/bin/python
 # coding: utf-8
 
-git_base_url = "https://github.com/begood0513/goodnews/blob/master/pages"
+git_base_url = "https://github.com/sendtruth2020/goodnews2/blob/master/pages"
 
 head = '####  [法轮功真相](../../../../basic/blob/master/README.md) &nbsp;|&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md) \n\n'
-#'#### [💌武汉肺炎来势凶凶， 我要抛弃中共邪党保命](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
+#'#### [💌武汉肺炎来势凶凶， 我要抛弃中共邪党保命](https://github.com/sendtruth2020/goodnews2/blob/master/quit/letter.md)\n\n'
 
 menu = "#### [首页](../../README.md)  &nbsp;&nbsp;|&nbsp;&nbsp; _channellink_  &nbsp;&nbsp;|&nbsp;&nbsp; [热点推荐](../../indexes/热点推荐.md)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](../../../../../basic/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [翻墙教程](https://github.com/gfw-breaker/guides/blob/master/README.md)\n\n"
 
 links = "\n\n"
-links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; "
-links += "| &nbsp;[退出中共组织 良心的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
+links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/sendtruth2020/goodnews2/blob/master/pages/recommended/406691.md) &nbsp; "
+links += "| &nbsp;[退出中共组织 良心的选择](https://github.com/sendtruth2020/goodnews2/blob/master/quit/letter.md) \n\n"
 links += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md)\n\n"
 links += "#### [ 🎬 《红墙的记忆》- 4.25中南海万人和平上访纪实 ](http://78.141.203.76:10000/videos/legend/425.html)\n\n"
 links += "#### [ 🎬 《永恒的五十分钟》（长春电视插播事件改编）](http://78.141.203.76:10000/videos/news/ComingForYou-2.html)\n\n"
@@ -18,7 +18,7 @@ links += "#### [ 🎬  法轮功万人大游行 震撼纽约（2019年5月） ](
 links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://78.141.203.76:10000/videos/blog/weihuo.html)&nbsp; "
 links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://78.141.203.76:10000/videos/88/kent.html)\n\n"
 links += "#### 网站代理：[大纪元新闻网](http://141.164.63.68:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://141.164.63.68:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://78.141.203.76/youtube.html)\n\n"
-links += "#### [武汉肺炎：为什么感染率相差100倍！](https://github.com/begood0513/goodnews/blob/master/pages/recommended/407622.md)\n\n"
+links += "#### [武汉肺炎：为什么感染率相差100倍！](https://github.com/sendtruth2020/goodnews2/blob/master/pages/recommended/407622.md)\n\n"
 
 tail = ""
 
